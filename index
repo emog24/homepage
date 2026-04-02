@@ -4,7 +4,10 @@
     body{
       background-color: red;
       color: black;
+      text-align: center;
         }
+<a href=”https://nilsontcarroll.github.io/twine/game/tempo.html”>Click
+here to enter my village.</a>
 </style>
   <title> F1 </title>
 </head>
