@@ -1,5 +1,11 @@
 <html>
 <head>
+<style>
+    body{
+      background-color: red;
+      color: black;
+        }
+</style>
   <title> F1 </title>
 </head>
 <body>
